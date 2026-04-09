@@ -127,7 +127,6 @@ Resources
 [Code examples — Python](examples/python/)
 [Code examples — Node.js](examples/node/)
 [Code examples — cURL](examples/curl/examples.sh)
-[Postman collection](postman/)
 
 ---
 
